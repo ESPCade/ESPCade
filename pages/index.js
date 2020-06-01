@@ -98,22 +98,22 @@ class Home extends React.Component {
               <Member
               img_source = "members/raul.png"
               name = "Raul Alcantara"
-              info = "MIT raising junior - Class of 2022"
+              info = "MIT rising junior - Class of 2022"
               />
               <Member
               img_source = "members/shinjini.png"
               name = "Shinjini Ghosh"
-              info = "MIT raising junior - Class of 2022"
+              info = "MIT rising junior - Class of 2022"
               />
               <Member
               img_source = "members/vik.png"
               name = "Viktoriya Tabunshchyk"
-              info = "MIT raising junior - Class of 2022"
+              info = "MIT rising junior - Class of 2022"
               />
               <Member
               img_source = "members/pawan.png"
               name = "Pawan Goyal"
-              info = "MIT raising junior - Class of 2022"
+              info = "MIT rising junior - Class of 2022"
               />            
               </Row>
             {/* <a
