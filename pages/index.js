@@ -93,7 +93,7 @@ class Home extends React.Component {
 
             <br/>
 
-            <h2> <i>Our team:</i></h2>
+            <h2 className="section"> <i>Our team:</i></h2>
             <Row className="image_container">
               <Member
               img_source = "members/raul.png"
