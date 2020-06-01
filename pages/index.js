@@ -50,7 +50,7 @@ class Home extends React.Component {
             // className="App-logo"
             />
             {/* <h1>ESPCade</h1> */}
-            <p><i>Even when we are apart, we can have fun with together.</i></p>
+            <p><i>Even when we are apart, we can have fun together.</i></p>
             <p>
               This is our final project for the class <a target="_blank" href="http://student.mit.edu/catalog/search.cgi?search=6.08"><i>6.08: Interconnected Embedded Systems</i></a>, Spring 2020 at MIT.
             </p>
