@@ -1,4 +1,5 @@
 import React from 'react';
+import Head from 'next/head'
 // import logo from './logo.svg';
 import Row from 'react-bootstrap/Row'
 import Col from 'react-bootstrap/Col'
@@ -43,7 +44,11 @@ class Home extends React.Component {
   render(){
     return (
         <div className="App">
+          <Head>
+          <link rel="shortcut icon" href="/espcade_logo.png" />
+          </Head>
           <header className="App-header">
+
             {/* <img src={logo} className="App-logo" alt="logo" /> */}
             <Image
             src = {"espcade_logo.png"}
