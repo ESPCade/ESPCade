@@ -8,6 +8,9 @@ Check out the project at [espcade.netlify.app](https://espcade.netlify.app/).
 ## Final Report
 Check out a detailed report and videos of the system in action [here](https://shinjini-ghosh.gitlab.io/website-resources/6.08/Writeup/final_report.html)!
 
+## Games in Action
+Watch it [here](https://youtu.be/FLWdBho8LZU).
+
 ## Team members: Shinjini, Raul, Viktoriya and Pawan
 
 ### Suggestions and feature ideas welcome!
